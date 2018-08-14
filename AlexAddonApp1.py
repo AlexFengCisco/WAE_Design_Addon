@@ -58,7 +58,9 @@ Result From WAE log window as following
 
 Created on Aug 7, 2018
 
-@author: alfeng
+@author: Alex Feng 
+
+alfeng@cisco.com
 '''
 
 import sys
