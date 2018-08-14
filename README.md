@@ -1,9 +1,9 @@
 # WAE_Design_Addon Integration with 3rd party Applications
 
-## addon sample format and sample code for reference 
+## Addon sample format and sample code for reference 
 
 ---- 
-##Sample code to make WAE Design addon integration,
+>Sample code to make WAE Design addon integration,
 > addon.txt design format and style for addon,
  valid_options is variable constrain ,
  python code to handle options and design content , you may integrate WAE Design addon to any 3rd party applications ,NSO or other auyonation tools
