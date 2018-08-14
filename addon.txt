@@ -1,0 +1,15 @@
+<AddOnOptions>					
+OptionName	Prompt	Type	Default	Range	Table
+Option1	Head End Node	TableSelection			Nodes
+Option2	Segment Lists	TableSelection			Segment Lists
+Option3	Dry Run	Checkbox	FALSE		
+					
+<AddOnConfigs>					
+Property	Value				
+Name	CCB App Push Current Segment list to NSO				
+Description	Retive Current Segment list and push to NSO\n\nTest for run a python code \nPrint text only.				
+					
+Version	5				
+Run	design_api_python -- AlexAddonApp1.py				
+WindowsRun	design_api_python -- AlexAddonApp1.py				
+				   	
