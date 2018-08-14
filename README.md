@@ -10,9 +10,9 @@
 
  >Exec python code by invoke WAE Design addon options , observe the result from WAE log window.
 ----
-[![N|Solid](addon_menu_cap.png)]
+![N|Solid](addon_menu_cap.png)
 
-[![N|Solid](addon_options_cap.png)]
+![N|Solid](addon_options_cap.png)
 ## Result From WAE log window as following
     
     14:44:26 Notice [30]: Run Scripts started.
