@@ -1,4 +1,4 @@
-# WAE_Design_Addon Integration with 3rd party Applications
+# WAE_Design_Addon Integrated with 3rd party Applications
 
 ## Addon sample format and sample code for reference 
 
