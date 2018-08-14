@@ -12,9 +12,9 @@
 ----
 
 ## Result From WAE log window as following
-
-> 14:44:26 Notice [30]: Run Scripts started.
-> 14:44:51 Notice [30]: -mate-version*****
+    
+    14:44:26 Notice [30]: Run Scripts started.
+    14:44:51 Notice [30]: -mate-version*****
 > 14:44:51 Notice [30]: -out-file*****
 > 14:44:51 Notice [30]: -pdf-report-file*****
 > 14:44:51 Notice [30]: -plan-file*****
