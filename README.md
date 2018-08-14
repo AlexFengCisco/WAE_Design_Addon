@@ -8,7 +8,7 @@
  valid_options is variable constrain ,
  python code to handle options and design content , you may integrate WAE Design addon to any 3rd party applications ,NSO or other auyonation tools
 
- Exec python code by invoke WAE Design addon options , observe the result from WAE log window.
+ >Exec python code by invoke WAE Design addon options , observe the result from WAE log window.
 ----
 
 ## Result From WAE log window as following
